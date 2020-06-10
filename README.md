@@ -28,4 +28,4 @@ Available variables:
 You need `make` and `aws-sam` to properly exploit LayLa functionalities.
 
 ## Authors
-* **Silvio Lugaro** - *Advanced Analytics team, Iren S.p.A.*, 2020
+* **Silvio Lugaro**, 2020
