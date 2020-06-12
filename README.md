@@ -11,7 +11,7 @@ Available `make` commands:
 - `clean`: clean everything built with LayLa
 
 ## Configuration
-Before exploit the Makefile, you will likely have to change some config variables in `config.mk`.
+You will likely have to change some config variables in `config.mk`.
 
 Available variables:
 - _LANGUAGE_, interpreter language (default `python`)
