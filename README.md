@@ -28,7 +28,7 @@ Available variables:
 You need `make` and `aws-sam` to properly exploit LayLa functionalities.
 
 ## Credits
-Credit for core idea goes to Bryson Tyrrell https://bryson3gps.wordpress.com/2018/12/06/trick-sam-into-building-your-lambda-layers/ and _this_ Richard guy https://stackoverflow.com/questions/58369170/build-custom-aws-lambda-layer-for-scikit-image/58408130#58408130.
+Credit for core idea goes to [Bryson Tyrrell](https://bryson3gps.wordpress.com/2018/12/06/trick-sam-into-building-your-lambda-layers/) and _this_ [Richard guy](https://stackoverflow.com/questions/58369170/build-custom-aws-lambda-layer-for-scikit-image/58408130#58408130).
 
 ## Authors
 * **Silvio Lugaro**, 2020
